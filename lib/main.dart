@@ -195,7 +195,7 @@ class _UnityViewPageState extends State<UnityViewPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('echoAR unity app'),
+        title: const Text('AR Number Line'),
       ),
       body: Stack(
         children: <Widget>[
