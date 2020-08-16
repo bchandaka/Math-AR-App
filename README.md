@@ -1,5 +1,6 @@
 # Math AR App
-A fun, interactive to way to learn math through AR - Made for the Garudahacks Hackathon
+A fun, interactive to way to learn math through AR - Made for the Garudahacks Hackathon \
+This was our very first hackathon and the very first app we made, so this was a very fun and exciting experience despite being virtual.
 ## The Concept
 Especially in these times, educating young children virtually can be a very difficult task. So, to better engage and educate young children, we created an app that uses Augmented Reality to display various math tools that can help students learn math in fun and engaging ways. \
 The main 3D tools we proposed were:
